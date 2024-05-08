@@ -1,0 +1,7 @@
+D:\PracticeC#\SwapNewProject\SwapNewProject\bin\Debug\SwapNewProject.exe.config
+D:\PracticeC#\SwapNewProject\SwapNewProject\bin\Debug\SwapNewProject.exe
+D:\PracticeC#\SwapNewProject\SwapNewProject\bin\Debug\SwapNewProject.pdb
+D:\PracticeC#\SwapNewProject\SwapNewProject\obj\Debug\SwapNewProject.csproj.AssemblyReference.cache
+D:\PracticeC#\SwapNewProject\SwapNewProject\obj\Debug\SwapNewProject.csproj.CoreCompileInputs.cache
+D:\PracticeC#\SwapNewProject\SwapNewProject\obj\Debug\SwapNewProject.exe
+D:\PracticeC#\SwapNewProject\SwapNewProject\obj\Debug\SwapNewProject.pdb
