@@ -1,0 +1,7 @@
+D:\PracticeC#\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe.config
+D:\PracticeC#\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe
+D:\PracticeC#\FirstApplication\FirstApplication\bin\Debug\FirstApplication.pdb
+D:\PracticeC#\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csproj.AssemblyReference.cache
+D:\PracticeC#\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csproj.CoreCompileInputs.cache
+D:\PracticeC#\FirstApplication\FirstApplication\obj\Debug\FirstApplication.exe
+D:\PracticeC#\FirstApplication\FirstApplication\obj\Debug\FirstApplication.pdb
