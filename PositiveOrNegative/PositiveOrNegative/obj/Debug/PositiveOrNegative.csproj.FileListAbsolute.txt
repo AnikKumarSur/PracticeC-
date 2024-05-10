@@ -1,0 +1,7 @@
+D:\PracticeC#\PositiveOrNegative\PositiveOrNegative\bin\Debug\PositiveOrNegative.exe.config
+D:\PracticeC#\PositiveOrNegative\PositiveOrNegative\bin\Debug\PositiveOrNegative.exe
+D:\PracticeC#\PositiveOrNegative\PositiveOrNegative\bin\Debug\PositiveOrNegative.pdb
+D:\PracticeC#\PositiveOrNegative\PositiveOrNegative\obj\Debug\PositiveOrNegative.csproj.AssemblyReference.cache
+D:\PracticeC#\PositiveOrNegative\PositiveOrNegative\obj\Debug\PositiveOrNegative.csproj.CoreCompileInputs.cache
+D:\PracticeC#\PositiveOrNegative\PositiveOrNegative\obj\Debug\PositiveOrNegative.exe
+D:\PracticeC#\PositiveOrNegative\PositiveOrNegative\obj\Debug\PositiveOrNegative.pdb
