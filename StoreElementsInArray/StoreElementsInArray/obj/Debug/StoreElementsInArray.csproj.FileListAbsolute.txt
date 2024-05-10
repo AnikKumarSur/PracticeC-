@@ -1,0 +1,7 @@
+D:\PracticeC#\StoreElementsInArray\StoreElementsInArray\bin\Debug\StoreElementsInArray.exe.config
+D:\PracticeC#\StoreElementsInArray\StoreElementsInArray\bin\Debug\StoreElementsInArray.exe
+D:\PracticeC#\StoreElementsInArray\StoreElementsInArray\bin\Debug\StoreElementsInArray.pdb
+D:\PracticeC#\StoreElementsInArray\StoreElementsInArray\obj\Debug\StoreElementsInArray.csproj.CoreCompileInputs.cache
+D:\PracticeC#\StoreElementsInArray\StoreElementsInArray\obj\Debug\StoreElementsInArray.exe
+D:\PracticeC#\StoreElementsInArray\StoreElementsInArray\obj\Debug\StoreElementsInArray.pdb
+D:\PracticeC#\StoreElementsInArray\StoreElementsInArray\obj\Debug\StoreElementsInArray.csproj.AssemblyReference.cache
